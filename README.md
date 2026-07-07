@@ -114,11 +114,13 @@ The dataset contains loan-related information such as:
 
 ### Summary Dashboard
 
-![Summary Dashboard](Images/Summary.png)
+![Summary Dashboard]("<img width="3075" height="1763" alt="HI_page-0001" src="https://github.com/user-attachments/assets/e31e6653-1f6d-4aa5-8248-9e86138c034b" />
+")
 
 ### Overview Dashboard
 
-![Overview Dashboard](Images/Overview.png)
+![Overview Dashboard](<img width="3075" height="1763" alt="HI_page-0002" src="https://github.com/user-attachments/assets/3be3a7af-8c63-4b45-b7e0-ec6386157043" />
+)
 
 ### Details Dashboard
 
