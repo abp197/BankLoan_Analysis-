@@ -186,8 +186,8 @@ Through this project, I gained hands-on experience in:
 
 **Shubham Patil**
 
-- GitHub: https://github.com/your-username
-- LinkedIn: https://linkedin.com/in/your-profile
+- GitHub: https://github.com/abp197
+- LinkedIn: https://www.linkedin.com/in/shubham-patil-810736266/
 
 ---
 
